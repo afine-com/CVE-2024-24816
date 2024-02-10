@@ -1,4 +1,4 @@
-# CVE-2023-39062
+# CVE-2024-24816
 CKEditor 4 < 4.24.0-lts - XSS vulnerability in samples that use the "preview" feature. 
 
 ## Timeline
